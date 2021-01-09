@@ -4,7 +4,7 @@ def a_method(a,b)
   sum = a + b
   puts "I got #{sum}"
 end
- 
+
 a_method(2,3)
 
 
